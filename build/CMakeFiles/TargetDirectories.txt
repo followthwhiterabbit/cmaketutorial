@@ -1,3 +1,0 @@
-/home/zornic/Downloads/cmake-3.26.0-rc3-tutorial-source/Step1/build/CMakeFiles/Tutorial.dir
-/home/zornic/Downloads/cmake-3.26.0-rc3-tutorial-source/Step1/build/CMakeFiles/edit_cache.dir
-/home/zornic/Downloads/cmake-3.26.0-rc3-tutorial-source/Step1/build/CMakeFiles/rebuild_cache.dir
